@@ -1,36 +1,219 @@
-⚡ C++ Basics
-Welcome to my cpp-basics repository!
-This repo contains simple C++ programs and practice exercises that I’m using to learn the core concepts of C++ programming.
+C++ Basics 🚀
 
-📘 What You'll Find Here
-This repository is organized into folders by topic. Each folder contains .cpp files that demonstrate key concepts:
+This repository contains all the fundamental concepts of C++, including syntax, programming constructs, and Standard Template Library (STL) usage.
+It is designed for beginners and intermediate learners who want to master the basics of C++ before moving on to Data Structures & Algorithms (DSA).
 
-Topic	Description
-variables/	Declaring and using variables in C++
-datatypes/	Primitive data types and type conversion
-operators/	Arithmetic, relational, and logical operators
-conditionals/	If, if-else, switch statements
-loops/	For loop, while loop, do-while
-arrays/	One-dimensional and multi-dimensional arrays
-strings/	String handling using string class and C-strings
-functions/	Creating and calling functions
-pointers/	Basics of pointers and memory addresses
-oops-basics/	Classes, objects, and basic OOP concepts
+📚 Topics Covered
 
-🚀 How to Run
-To run any C++ file:
+1. Basics
 
-Navigate to the folder in your terminal.
+Introduction to C++
 
-Compile the code using:
+Setting up environment
 
-bash
-Copy
-Edit
-g++ FileName.cpp -o output
-Run the compiled program:
+Structure of a C++ program
 
-bash
-Copy
-Edit
+Variables & Constants
+
+Data Types
+
+Type Conversion & Casting
+
+Input / Output (cin, cout)
+
+
+2. Operators
+
+Arithmetic Operators
+
+Relational Operators
+
+Logical Operators
+
+Assignment Operators
+
+Increment & Decrement
+
+Bitwise Operators
+
+Conditional (Ternary) Operator
+
+Operator Precedence
+
+
+3. Control Statements
+
+if, if-else, if-else-if
+
+Nested if statements
+
+switch statement
+
+goto statement
+
+Loops: for, while, do-while
+
+break & continue
+
+
+4. Functions
+
+Function declaration & definition
+
+Function parameters & return values
+
+Default arguments
+
+Inline functions
+
+Function overloading
+
+Recursion
+
+
+5. Arrays & Strings
+
+1D and 2D arrays
+
+Multidimensional arrays
+
+String handling (string class, cstring functions)
+
+
+6. Pointers
+
+Pointer basics
+
+Pointer arithmetic
+
+Pointers & arrays
+
+Pointers to functions
+
+References
+
+Dynamic memory allocation (new, delete)
+
+
+7. Object-Oriented Programming (OOP)
+
+Classes & Objects
+
+Access specifiers (public, private, protected)
+
+Constructors & Destructors
+
+Inheritance
+
+Polymorphism
+
+Function overriding
+
+Abstract classes & interfaces
+
+Friend functions
+
+Static members
+
+
+8. Standard Template Library (STL)
+
+Containers:
+
+Vector
+
+List
+
+Deque
+
+Stack
+
+Queue
+
+Priority Queue
+
+Set / Multiset
+
+Map / Multimap
+
+
+Iterators
+
+Algorithms (sort, find, count, etc.)
+
+Pairs & Tuples
+
+
+9. File Handling
+
+File input & output
+
+ifstream, ofstream, fstream
+
+Reading & writing files
+
+File modes
+
+
+10. Miscellaneous
+
+Enumerations (enum)
+
+Type aliases (typedef, using)
+
+Namespaces
+
+Preprocessor directives (#define, #include, #ifdef)
+
+Exception handling (try, catch, throw)
+
+Lambda expressions (C++11+)
+
+
+
+---
+
+🛠 How to Use
+
+1. Clone this repository
+
+git clone https://github.com/your-username/cpp-basics.git
+
+
+2. Navigate to the repo
+
+cd cpp-basics
+
+
+3. Compile any .cpp file
+
+g++ filename.cpp -o output
 ./output
+
+
+
+
+---
+
+🎯 Purpose
+
+This repository is meant for:
+
+Beginners learning C++ syntax and features
+
+Revising STL concepts
+
+Preparing for interviews that require basic C++ knowledge (without DSA)
+
+
+
+---
+
+📌 Related Repositories
+
+For DSA in C++, check out:
+https://github.com/Chandu-Thanuku/DSA-cpp
+
+
+
+
