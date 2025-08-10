@@ -15,4 +15,11 @@ int main() {
     // Modify an element
     numbers[2] = 35;  // Change 3rd element (index 2)
 
-    cout << "After modification, array
+    cout << "After modification, array elements: ";
+    for (int i = 0; i < 5; i++) {
+        cout << numbers[i] << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
